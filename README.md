@@ -6,14 +6,16 @@ Images stored in this repository will be available to all projects, starting wit
 
 ... followed by the folder path and the image name. These images are accessible from anywhere.
 
-For example, the image below has the path [https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/animals/birds/sparrow.jpg](https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/animals/birds/sparrow.jpg)
+For example, the image below has the path:
+
+[https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/animals/birds/sparrow.jpg](https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/animals/birds/sparrow.jpg)
 
 ![sparrow](https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/animals/birds/sparrow.jpg)
 
 
 ## JSON files
 
-Each folder that contains an image or that contains subfolders that contain images contains an `images.json` file.
+Each folder that contains an image, or that contains subfolders that contain images, also contains an `images.json` file.
 
 **These files are not accessible from outside the GitHub site.**
 
@@ -23,7 +25,7 @@ A JSON file at...
 
 ... provides a look-up table to all the folders, by topic, plus the number of images available from that folder. Files such as...
 
-[https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/.../images.json]()
+[https://raw.githubusercontent.com/jazyx/depot/refs/heads/main/&lt;path to folder&gt;/images.json]()
 
 ... provide an array of all the relative paths to each image it contains.
 
