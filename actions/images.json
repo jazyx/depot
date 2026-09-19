@@ -1,7 +1,11 @@
 [
   "actions/carry.webp",
   "actions/catch.webp",
+  "actions/dance.jpg",
+  "actions/leap.jpg",
   "actions/paddle.webp",
   "actions/pat.webp",
-  "actions/shatter.webp"
+  "actions/shatter.webp",
+  "actions/sleep.jpg",
+  "actions/steal.jpg"
 ]
