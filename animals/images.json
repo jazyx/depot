@@ -1,4 +1,6 @@
 [
+  "animals/arthropods/crab.webp",
+  "animals/arthropods/spider.webp",
   "animals/birds/blue_tit.jpg",
   "animals/birds/chick.jpg",
   "animals/birds/chicken.webp",
@@ -16,6 +18,7 @@
   "animals/fish/carp.jpg",
   "animals/fish/eel.jpg",
   "animals/fish/mullet.webp",
+  "animals/fish/seahorse.webp",
   "animals/fish/shark.jpg",
   "animals/insects/ant.jpg",
   "animals/insects/bee.jpg",
@@ -39,9 +42,11 @@
   "animals/mammals/elephant.jpg",
   "animals/mammals/giraffe.webp",
   "animals/mammals/goat.jpg",
+  "animals/mammals/hedgehog.webp",
   "animals/mammals/horse.jpg",
   "animals/mammals/lion.webp",
   "animals/mammals/meerkat.webp",
+  "animals/mammals/mouse.webp",
   "animals/mammals/pig.jpg",
   "animals/mammals/ram.webp",
   "animals/mammals/rat.webp",
@@ -49,7 +54,10 @@
   "animals/mammals/sheep.jpg",
   "animals/mammals/stag.jpg",
   "animals/mammals/tabby.webp",
+  "animals/molluscs/octopus.webp",
   "animals/molluscs/slug.webp",
+  "animals/molluscs/snail.webp",
+  "animals/other/starfish.webp",
   "animals/reptiles/chameleon.jpg",
   "animals/reptiles/frog.jpg"
 ]
